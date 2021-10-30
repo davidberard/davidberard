@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidberard
 - 👀 I’m interested in UX/UI, photography and design
-- 🌱 I’m currently learning website ergonomy
+- 🌱 I’m currently learning website ergonomy and Vue.js
 - 💞️ I’m looking to collaborate on inhouse projects
 - 📫 How to reach me : https://davidberard.net
 
